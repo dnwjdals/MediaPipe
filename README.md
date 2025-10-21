@@ -11,3 +11,7 @@
 # requirements.txt 사전에 필요한 패키지 설치 파일
 
 # selfie_segmentation.py 카메라나 영상을 이용해서 얼굴 감지 테스트를 하도록 하는 코드
+
+# face_detector.py 손 감지 테스트 코드를 얼굴 감지 테스트 코드로 변경한 파일
+
+# hand_detector_youtube.py 손 감지 테스트 코드에 유튜브 링크를 붙여넣어서 원하는 유튜브 영상을 통해 적용한 파일
